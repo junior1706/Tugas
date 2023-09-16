@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\23.11.5722 Junior\01\Pythagoras2\main.cpp(18,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Pythagoras2.vcxproj -> D:\23.11.5722 Junior\01\x64\Debug\Pythagoras2.exe
